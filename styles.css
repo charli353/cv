@@ -1,0 +1,201 @@
+body{
+    background-color: #F0E9D2;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0;
+    font-family: 'Amatic SC', cursive;
+    
+
+}
+
+h1{
+   
+    text-align: center;
+    color: #181D31;
+   
+    position: relative;
+    top: 10px;
+}
+h2{
+    
+    text-align: center;
+    color: #181D31;
+    position: relative;
+    top: 10px;
+    margin: 0;
+    
+
+}
+
+p{
+    text-align: center;
+    margin: 0;
+    color: #181D31;
+    
+    position: relative;
+    top: 50px;
+}
+
+.header{
+background-color: #678983;
+height: 200px;
+margin-top: none;
+border-bottom: solid 5px;
+border-color: #F0E9D2;
+}
+.body{
+background-color: #E6DDC4;
+height: 600px;
+width: 100%;
+border-bottom: solid 5px;
+border-color:#F0E9D2;
+}
+.front{
+position: relative;
+left: 650px;
+top: 280px;
+opacity: 75%;
+
+    
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.middle{
+position: relative;
+top: 200px;
+opacity: 50%;
+
+   
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+
+}
+.back{
+    position: relative;
+    left: 500px;
+    top: 100px;
+    opacity: 25%;
+    
+    
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+hr{
+    position: relative;
+    top: 10px;
+    border-style: dotted;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: #F0E9D2;
+    width: 50%;
+    border-width: 5px;
+    margin-top: 0;
+    padding: 5px;
+
+}
+
+.two{
+    position: relative;
+    top: 50px;
+    border-style: dotted;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: #678983 ;
+    width: 50%;
+    border-width: 5px;
+    margin-top: 0;
+    padding: 5px;
+
+}
+img:hover{
+    -webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.cloudone{
+    position: relative;
+    right: 500px;
+    bottom: 160px;
+    opacity: 70%;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.cloudtwo{
+position: relative;
+right: 450px;
+bottom: 130px;
+opacity: 45%;
+-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.cloudthree{
+    position: relative;
+    right: 370px;
+    bottom: 120px;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.cloudfour{
+    position: relative;
+    left: 1150px;
+    bottom: 300px;
+    opacity: 70%;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.middle-container{
+text-align: center;
+
+}
+
+.icon1 {
+    float: left;
+    position: relative;
+    left: 400px;
+    top: 100px;
+    margin-right: 0px;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.skills {
+    display: block;
+    position: relative;
+    left: 80px;
+    top: 170px;
+
+    
+}
+
+.containerSplit {
+    border-style: dotted;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: #678983;
+    width: 100%;
+    border-width: 5px;
+    margin-top: 0;
+
+}
